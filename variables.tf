@@ -20,7 +20,7 @@ variable "subscription_id" {
 
 type = string
 
-default = "" #TO BE FILLED
+default = "4dbffbb6-92ea-4699-bba4-5c52b58301ff"
 
 }
 
@@ -32,7 +32,7 @@ variable "rg_name" {
 
 type = string
 
-default = "" #TO BE FILLED
+default = "sandbox_centralespuelec.team10"
 
 } 
 # Define a variable for the Azure region (location) where resources will be deployed.
